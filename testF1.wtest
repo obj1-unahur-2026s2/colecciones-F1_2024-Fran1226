@@ -1,4 +1,4 @@
-import campeonato.campeonato
+import campeonato.*
 import pilotos.*
 import neumaticos.*
 import escuderias.*
